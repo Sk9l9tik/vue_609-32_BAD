@@ -37,3 +37,9 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+attachments/
+typst_templates
+
+*.typ
+*.pdf
